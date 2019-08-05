@@ -3,6 +3,9 @@ Picup
 
 Picup - A Dropzone 3 action plugin which uploads images to the image-hosting site: [sm.ms](https://sm.ms/)
 
+[![](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=waysup.Picup)](https://github.com/waysup/Picup)
+[![](https://visitor-count-badge.herokuapp.com/today.svg?repo_id=waysup.Picup)](https://github.com/waysup/Picup)
+
 #### 实现功能
 Dropzone 3 通过支持文件拖放来简化 Mac 上的很多操作,是提高工作效率的神器之一.在使用 `Markdown` 写作时,经常需要插入图片, 然而打开图床网站上传十分麻烦,如果可以直接拖拽完成上传,将是极好的.先上图:
 <!-- more -->
